@@ -1,15 +1,15 @@
 {
-               "name": "vajira-Md",
+               "name": "NS-Md",
                "version": "4.0",
-               "description": "Multi device whatsapp bot by Thushan.",
+               "description": "Multi device whatsapp bot by Mr Noman.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name vajira-md",
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name NS-md",
                 "stop": "pm2 stop vajira-md"
                 },
-               "author": "Vajira md",
+               "author": "NS md",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
